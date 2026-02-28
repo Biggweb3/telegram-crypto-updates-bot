@@ -1,0 +1,46 @@
+[
+  {
+    "name": "accounts",
+    "file": "src/commands/admin.js"
+  },
+  {
+    "name": "addaccount",
+    "file": "src/commands/admin.js"
+  },
+  {
+    "name": "dests",
+    "file": "src/commands/admin.js"
+  },
+  {
+    "name": "help",
+    "file": "src/commands/help.js"
+  },
+  {
+    "name": "removeaccount",
+    "file": "src/commands/admin.js"
+  },
+  {
+    "name": "removedest",
+    "file": "src/commands/admin.js"
+  },
+  {
+    "name": "setdest",
+    "file": "src/commands/admin.js"
+  },
+  {
+    "name": "setkeywords",
+    "file": "src/commands/admin.js"
+  },
+  {
+    "name": "setthreshold",
+    "file": "src/commands/admin.js"
+  },
+  {
+    "name": "start",
+    "file": "src/commands/start.js"
+  },
+  {
+    "name": "status",
+    "file": "src/commands/admin.js"
+  }
+]
